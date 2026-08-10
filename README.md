@@ -11,15 +11,18 @@ leetcode submissions
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +47,20 @@ leetcode submissions
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
