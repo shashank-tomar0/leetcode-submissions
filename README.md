@@ -6,6 +6,7 @@ leetcode submissions
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -26,10 +27,12 @@ leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
