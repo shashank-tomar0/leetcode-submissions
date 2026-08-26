@@ -80,11 +80,13 @@ leetcode submissions
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
