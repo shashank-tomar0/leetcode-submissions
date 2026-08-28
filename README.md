@@ -58,6 +58,7 @@ leetcode submissions
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -88,6 +89,7 @@ leetcode submissions
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +98,8 @@ leetcode submissions
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2029-stone-game-ix) |
+## Two Pointers
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
