@@ -11,6 +11,7 @@ leetcode submissions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -39,6 +40,7 @@ leetcode submissions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
