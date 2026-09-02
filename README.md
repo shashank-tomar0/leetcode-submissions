@@ -12,6 +12,7 @@ leetcode submissions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ leetcode submissions
 | [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
