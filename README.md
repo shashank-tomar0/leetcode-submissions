@@ -15,6 +15,7 @@ leetcode submissions
 | [3731-find-missing-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -115,4 +116,8 @@ leetcode submissions
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
