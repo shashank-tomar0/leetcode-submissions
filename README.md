@@ -5,6 +5,7 @@ leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0835-image-overlap) |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -123,4 +124,8 @@ leetcode submissions
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
