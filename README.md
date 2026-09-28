@@ -12,6 +12,7 @@ leetcode submissions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -25,6 +26,7 @@ leetcode submissions
 | [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
