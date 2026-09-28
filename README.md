@@ -100,6 +100,7 @@ leetcode submissions
 ## String
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -128,4 +129,12 @@ leetcode submissions
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0835-image-overlap) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
