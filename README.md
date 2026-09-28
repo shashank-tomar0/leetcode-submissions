@@ -105,6 +105,7 @@ leetcode submissions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -139,4 +140,8 @@ leetcode submissions
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
