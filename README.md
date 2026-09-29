@@ -22,6 +22,7 @@ leetcode submissions
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2029-stone-game-ix) |
@@ -144,4 +145,8 @@ leetcode submissions
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
