@@ -35,6 +35,7 @@ leetcode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 ## Game Theory
@@ -103,6 +104,7 @@ leetcode submissions
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -142,6 +144,7 @@ leetcode submissions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -152,4 +155,8 @@ leetcode submissions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
