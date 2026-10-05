@@ -105,6 +105,7 @@ leetcode submissions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -139,12 +140,14 @@ leetcode submissions
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
