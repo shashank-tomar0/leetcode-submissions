@@ -5,6 +5,7 @@ leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0835-image-overlap) |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2029-stone-game-ix) |
@@ -47,6 +48,7 @@ leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -131,6 +133,7 @@ leetcode submissions
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
