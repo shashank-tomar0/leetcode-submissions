@@ -64,6 +64,7 @@ leetcode submissions
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -167,4 +168,24 @@ leetcode submissions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
