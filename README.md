@@ -5,6 +5,7 @@ leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0055-jump-game) |
 | [0560-subarray-sum-equals-k](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0835-image-overlap) |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
@@ -37,6 +38,7 @@ leetcode submissions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0055-jump-game) |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1510-stone-game-iv) |
 ## Game Theory
@@ -119,6 +121,7 @@ leetcode submissions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0055-jump-game) |
 | [2029-stone-game-ix](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
