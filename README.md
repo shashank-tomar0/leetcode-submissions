@@ -118,6 +118,7 @@ leetcode submissions
 | [0678-valid-parenthesis-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2409-count-days-spent-together) |
@@ -160,6 +161,7 @@ leetcode submissions
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -168,6 +170,7 @@ leetcode submissions
 | [0022-generate-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
