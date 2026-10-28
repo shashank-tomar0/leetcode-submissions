@@ -11,6 +11,7 @@ leetcode submissions
 | [0835-image-overlap](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0835-image-overlap) |
 | [1406-stone-game-iii](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2029-stone-game-ix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -84,6 +85,7 @@ leetcode submissions
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
