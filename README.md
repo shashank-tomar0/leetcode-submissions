@@ -211,4 +211,16 @@ leetcode submissions
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0855-exam-room](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0855-exam-room) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0855-exam-room](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0855-exam-room) |
+## Ordered Set
+|  |
+| ------- |
+| [0855-exam-room](https://github.com/shashank-tomar0/leetcode-submissions/tree/master/0855-exam-room) |
 <!---LeetCode Topics End-->
